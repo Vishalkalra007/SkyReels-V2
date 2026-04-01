@@ -966,3 +966,4 @@ We would like to thank the contributors of <a href="https://github.com/Wan-Video
       url={https://arxiv.org/abs/2504.13074}, 
 }
 ```
+This is Vishal’s fork of SkyReels-V2.
