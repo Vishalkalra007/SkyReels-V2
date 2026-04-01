@@ -1,13 +1,9 @@
 transformers==4.21.0
 diffusers==0.15.0
-gradio==4.21.0
-fastapi==0.95.2
-uvicorn==0.22.0
 moviepy==1.0.3
 einops==0.8.2
 torch==2.1.0
 huggingface-hub==0.12.1
-spaces==0.30.0
 numpy==1.23.5
 imageio
 imageio-ffmpeg
